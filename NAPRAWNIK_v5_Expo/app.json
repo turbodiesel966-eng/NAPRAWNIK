@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "NAPRAWNIK",
+    "slug": "naprawnik-v5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "pl.naprawnik.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5461ab0d-a2a1-4fdc-8887-48f59984ef14"
+      }
+    }
+  }
+}
